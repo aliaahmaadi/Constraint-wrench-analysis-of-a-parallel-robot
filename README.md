@@ -1,4 +1,4 @@
-This repository contains MATLAB scripts for simulating the inverse dynamics of a parallel robot using screw motion theory. The analysis focuses on constraint wrench evaluation and trajectory planning.
+# This repository contains MATLAB scripts for simulating the inverse dynamics of a parallel robot using screw motion theory. The analysis focuses on constraint wrench evaluation and trajectory planning.
 
 Features
 Inverse Displacement Analysis: Computes the joint angles for given end-effector positions and orientations.
